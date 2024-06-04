@@ -1,5 +1,5 @@
 # 💫 About Me:
-Español:<br>¡Hola! 👋 Soy Kevin Gleishner Torrealba Barrera, un ingeniero informático titulado y apasionado desarrollador de software. Me encanta programar y estoy comprometido con la tecnología y la innovación. Con experiencia en desarrollo de aplicaciones web y móviles, siempre estoy disponible para trabajos, desafíos y colaborar en proyectos emocionantes. ¡Gracias por visitar mi repositorio!<br>
+<br>¡Hola! 👋 Soy Kevin Gleishner Torrealba Barrera, un ingeniero informático titulado y apasionado desarrollador de software. Me encanta programar y estoy comprometido con la tecnología y la innovación. Con experiencia en desarrollo de aplicaciones web y móviles, siempre estoy disponible para trabajos, desafíos y colaborar en proyectos emocionantes. ¡Gracias por visitar mi repositorio!<br>
 
 
 ## 🌐 Socials:
